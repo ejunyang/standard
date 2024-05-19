@@ -1,0 +1,25 @@
+ul {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+ul li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+p {
+  margin: 0;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.listBox {
+  border: 1px solid #ccc;
+  padding: 30px;
+}
